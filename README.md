@@ -2,6 +2,8 @@
 <h1>www.patika.dev</h1>
 <p>Bu uygulama, açık kaynak kodlu bir hava durumu uygulamasıdır. Kullanıcının konumuna göre veya seçilen şehrin güncel hava durumu ve önümüzdeki 5 gün için tahminlerini gösterir.</p>
 
+<h3>Uygulama Demo Linki: https://enchanting-choux-186df8.netlify.app/</h3>
+
 <h2>Kullanılan Teknolojiler</h2>
 <p>Bu uygulama React ve Tailwind kullanılarak geliştirilmiştir.</p>
 
