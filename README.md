@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# patika-weather-app
+<h1>www.patika.dev</h1>
+<p>Bu uygulama, açık kaynak kodlu bir hava durumu uygulamasıdır. Kullanıcının konumuna göre veya seçilen şehrin güncel hava durumu ve önümüzdeki 5 gün için tahminlerini gösterir.</p>
+
+<h2>Kullanılan Teknolojiler</h2>
+<p>Bu uygulama React ve Tailwind kullanılarak geliştirilmiştir.</p>
+
+
+<img src='./src/img/app.PNG'>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
